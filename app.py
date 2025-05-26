@@ -4,7 +4,7 @@ import socket
 app = Flask(__name__)
 
 CALLSIGN = "6Y5KW-13"
-PASSCODE = "16958"
+PASSCODE = "10224"
 APRS_SERVER = "rotate.aprs2.net"
 APRS_PORT = 14580
 
